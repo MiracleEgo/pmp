@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T02:41:37.101Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="hrhv7tOsoxXgRpZs6H01" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-30T02:43:50.853Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="BkR6PFd3IveacXSeajUi" version="24.1.0" type="github" pages="2">
   <diagram name="第 1 页" id="FpM3Gc6K26EFtNZQ5YWm">
     <mxGraphModel dx="1482" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,16 +149,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-2" value="发起使用策略协商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="732" width="170" height="30" as="geometry" />
+          <mxGeometry x="510" y="770" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7reupTlisFfn5UMZGula-3" target="7reupTlisFfn5UMZGula-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-3" value="DPE反馈协商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="732" width="170" height="30" as="geometry" />
+          <mxGeometry x="160" y="770" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-4" value="DCE反馈协商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="801" width="170" height="30" as="geometry" />
+          <mxGeometry x="510" y="839" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-5" value="停止沙盒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1432" width="170" height="30" as="geometry" />
@@ -166,7 +166,7 @@
         <mxCell id="7reupTlisFfn5UMZGula-6" value="停止沙盒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="1432" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7reupTlisFfn5UMZGula-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7reupTlisFfn5UMZGula-13" target="7reupTlisFfn5UMZGula-14">
+        <mxCell id="7reupTlisFfn5UMZGula-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7reupTlisFfn5UMZGula-13" target="7reupTlisFfn5UMZGula-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-13" value="（开发态）启动任务，初加工数据进入待开放空间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -175,7 +175,7 @@
         <mxCell id="7reupTlisFfn5UMZGula-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7reupTlisFfn5UMZGula-14" target="ROo4k5_FHuxoBNNFrJbQ-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="664" />
+              <mxPoint x="480" y="725" />
               <mxPoint x="480" y="208" />
             </Array>
           </mxGeometry>
@@ -186,7 +186,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-14" value="将开放资源授权给合作方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="649" width="170" height="30" as="geometry" />
+          <mxGeometry x="160" y="710" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="294" width="260" height="226" as="geometry" />
@@ -263,7 +263,7 @@
           <mxGeometry x="160" y="1362" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="842" width="250" height="100" as="geometry" />
+          <mxGeometry x="470" y="880" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7reupTlisFfn5UMZGula-49" target="7reupTlisFfn5UMZGula-50">
           <mxGeometry relative="1" as="geometry">
@@ -303,8 +303,14 @@
         <mxCell id="7reupTlisFfn5UMZGula-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7reupTlisFfn5UMZGula-60" target="7reupTlisFfn5UMZGula-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7reupTlisFfn5UMZGula-60" value="元数据计算设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7reupTlisFfn5UMZGula-60" value="（开发态）元数据计算设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="533" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7reupTlisFfn5UMZGula-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7reupTlisFfn5UMZGula-62" target="7reupTlisFfn5UMZGula-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7reupTlisFfn5UMZGula-62" value="（开发态）查看数据落地结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="649" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
