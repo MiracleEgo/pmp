@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T02:28:15.047Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="MzvZ89qZs86p6k8qYAG4" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-30T02:31:27.059Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Fn9hV3IflZwU7uYWbIsS" version="24.1.0" type="github" pages="2">
   <diagram name="第 1 页" id="FpM3Gc6K26EFtNZQ5YWm">
     <mxGraphModel dx="1482" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -264,6 +264,9 @@
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="877" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7reupTlisFfn5UMZGula-49" value="通用配置(状态后端/数据源类型)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
