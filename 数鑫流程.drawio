@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T02:54:49.706Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="FwcLzV_4RVsYrEu-O48Q" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-30T02:55:17.046Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="WLJyI1-BPxHz1sCKbkwB" version="24.1.0" type="github" pages="2">
   <diagram name="第 1 页" id="FpM3Gc6K26EFtNZQ5YWm">
     <mxGraphModel dx="1482" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -342,10 +342,10 @@
         <mxCell id="7reupTlisFfn5UMZGula-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7reupTlisFfn5UMZGula-70" target="7reupTlisFfn5UMZGula-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7reupTlisFfn5UMZGula-70" value="配置落地连接器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7reupTlisFfn5UMZGula-70" value="配置域内连接器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="1060" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7reupTlisFfn5UMZGula-71" value="配置资源接入逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7reupTlisFfn5UMZGula-71" value="配置落地连接器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="1117" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-73" value="开发态&lt;div&gt;-&lt;/div&gt;&lt;div&gt;数据低代码开发&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
