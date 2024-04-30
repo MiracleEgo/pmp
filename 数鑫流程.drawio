@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T02:00:01.811Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="_2yScu_wyrWu03uXeTey" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-30T02:00:33.696Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jXnygijisBq9S3l0fZrJ" version="24.1.0" type="github" pages="2">
   <diagram name="第 1 页" id="FpM3Gc6K26EFtNZQ5YWm">
     <mxGraphModel dx="1482" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
           <mxGeometry x="84" y="120" width="336" height="560" as="geometry" />
         </mxCell>
         <mxCell id="IF3VS47OfBzBe09ulZft-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="120" width="336" height="560" as="geometry" />
+          <mxGeometry x="420" y="120" width="330" height="560" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ROo4k5_FHuxoBNNFrJbQ-1" target="ROo4k5_FHuxoBNNFrJbQ-3">
           <mxGeometry relative="1" as="geometry" />
@@ -109,6 +109,9 @@
         </mxCell>
         <mxCell id="ROo4k5_FHuxoBNNFrJbQ-1" value="创建合作方，将DCE新增进来" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="140" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7reupTlisFfn5UMZGula-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROo4k5_FHuxoBNNFrJbQ-2" target="ROo4k5_FHuxoBNNFrJbQ-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ROo4k5_FHuxoBNNFrJbQ-2" value="创建合作方，将DPE新增进来" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="140" width="170" height="30" as="geometry" />
@@ -121,6 +124,9 @@
         </mxCell>
         <mxCell id="ROo4k5_FHuxoBNNFrJbQ-4" value="创建开放资源" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="280" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7reupTlisFfn5UMZGula-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROo4k5_FHuxoBNNFrJbQ-5" target="7reupTlisFfn5UMZGula-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ROo4k5_FHuxoBNNFrJbQ-5" value="创建上层应用系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="210" width="170" height="30" as="geometry" />
