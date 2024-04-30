@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T02:12:35.438Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="746PhaZSC0Uq6XQp6Hl0" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-30T02:13:55.977Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="pCyULmM8YOTNVZlrWDhI" version="24.1.0" type="github" pages="2">
   <diagram name="第 1 页" id="FpM3Gc6K26EFtNZQ5YWm">
     <mxGraphModel dx="1482" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,10 +96,10 @@
           <mxGeometry x="420" y="80" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IF3VS47OfBzBe09ulZft-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="84" y="120" width="336" height="1000" as="geometry" />
+          <mxGeometry x="84" y="120" width="336" height="1110" as="geometry" />
         </mxCell>
         <mxCell id="IF3VS47OfBzBe09ulZft-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="120" width="330" height="1000" as="geometry" />
+          <mxGeometry x="420" y="120" width="330" height="1110" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ROo4k5_FHuxoBNNFrJbQ-1" target="ROo4k5_FHuxoBNNFrJbQ-3">
           <mxGeometry relative="1" as="geometry" />
@@ -156,7 +156,7 @@
           <mxGeometry x="160" y="1060" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-6" value="停止沙盒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1060" width="170" height="30" as="geometry" />
+          <mxGeometry x="510" y="1131" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7reupTlisFfn5UMZGula-13" target="7reupTlisFfn5UMZGula-14">
           <mxGeometry relative="1" as="geometry" />
@@ -190,17 +190,29 @@
         <mxCell id="7reupTlisFfn5UMZGula-23" value="（开发态）查看数据落地结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="800" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7reupTlisFfn5UMZGula-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7reupTlisFfn5UMZGula-24" target="7reupTlisFfn5UMZGula-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-24" value="（开发态）停止DCE端沙盒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="870" width="170" height="30" as="geometry" />
+          <mxGeometry x="510" y="857" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7reupTlisFfn5UMZGula-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7reupTlisFfn5UMZGula-25" target="7reupTlisFfn5UMZGula-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-25" value="（生产态）数据低代码开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="920" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7reupTlisFfn5UMZGula-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7reupTlisFfn5UMZGula-26" target="7reupTlisFfn5UMZGula-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-26" value="（生产态）启动DCE端沙盒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="970" width="170" height="30" as="geometry" />
+          <mxGeometry x="510" y="987" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7reupTlisFfn5UMZGula-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7reupTlisFfn5UMZGula-27" target="7reupTlisFfn5UMZGula-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-27" value="（生产态）查看数据落地结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1020" width="170" height="30" as="geometry" />
+          <mxGeometry x="510" y="1057" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7reupTlisFfn5UMZGula-28" target="7reupTlisFfn5UMZGula-29">
           <mxGeometry relative="1" as="geometry" />
