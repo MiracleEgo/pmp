@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T04:20:04.398Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="vjC_IJ5HGRQSM2XsxkPN" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-30T04:20:51.904Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="9zMeFaLY2rfIq6VcI8AW" version="24.1.0" type="github" pages="2">
   <diagram name="第 1 页" id="FpM3Gc6K26EFtNZQ5YWm">
     <mxGraphModel dx="1482" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,7 +224,7 @@
         <mxCell id="7reupTlisFfn5UMZGula-23" value="（开发态）查看数据落地结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6666FF;" vertex="1" parent="1">
           <mxGeometry x="510" y="1280" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7reupTlisFfn5UMZGula-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#99CCFF;strokeColor=#000000;" edge="1" parent="1" source="7reupTlisFfn5UMZGula-88" target="7reupTlisFfn5UMZGula-25">
+        <mxCell id="7reupTlisFfn5UMZGula-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#99CCFF;strokeColor=#000000;" edge="1" parent="1" source="7reupTlisFfn5UMZGula-88" target="7reupTlisFfn5UMZGula-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-24" value="（开发态）停止DCE端沙盒" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6666FF;" vertex="1" parent="1">
@@ -377,6 +377,9 @@
         </mxCell>
         <mxCell id="7reupTlisFfn5UMZGula-88" value="发布沙盒APP至生产环境" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6666FF;" vertex="1" parent="1">
           <mxGeometry x="510" y="1410" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7reupTlisFfn5UMZGula-90" value="（生产态）配置生产环境的连接器地址、账密、表名/Topic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1470" width="170" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
